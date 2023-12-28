@@ -1,0 +1,172 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.bio{
+    width: 90%;
+    margin: auto;
+    display: block;
+}
+.bio img{
+    margin: auto;
+    display: block;
+    
+}
+.bio p{
+    text-align: center;
+    line-height: 24px;
+    margin: auto;
+    padding: 10px;
+    font-family: 'Roboto Slab', serif;
+}
+.bio h1{
+    color: rgb(179, 156, 52);
+    font-size: 30px;
+    margin: auto;
+    text-align: center;
+    display: block;
+}
+.Milestone{
+    width: 90%;
+    margin: auto;
+    display: block;
+}
+.Milestone h1{
+    color: rgb(179, 156, 52);
+    font-size: 30px;
+    text-align: center;
+    margin: auto;
+    padding: 10px;
+}
+.Milestone p{
+    text-align: center;
+    font-size: 17px;
+    margin: auto;
+    padding: 10px;
+    font-family: 'Hind', sans-serif;
+    display: block;
+}
+.parent{
+    width: 1200px;
+    margin: auto;
+    width: fit-content;
+}
+
+.parent .card{
+    width: 280px;
+    height: 350px;
+    background-color: rgb(227, 231, 212);
+    margin: 15px;
+    padding: 10px;
+    border-radius: 15px;
+    line-height: 24px;
+    display: inline-block;
+}
+.parent .card h1{
+    font-size: 30px;
+    color: rgb(179, 156, 52)
+    
+}
+.parent .card h3{
+    font-size: 16px;
+}
+.card2{
+    width: 280px;
+    height: 350px;
+    background-color: rgb(227, 231, 212);
+    margin: 15px;
+    padding: 10px;
+    border-radius: 15px;
+    line-height: 24px;
+    display: inline-block;
+}
+.card2 h1{
+    font-size: 30px;
+    color: rgb(179, 156, 52)
+    
+}
+
+.card3{
+    width: 280px;
+    height: 350px;
+    background-color: rgb(241, 249, 249);
+    margin: 15px;
+    padding: 10px;
+    border-radius: 15px;
+    line-height: 24px;
+    display: inline-block;
+}
+.card3 h1{
+    font-size: 30px;
+    color: rgb(179, 156, 52)
+}
+.card3 h3{
+    font-size: 15px;
+}
+.bgimg {
+    width: 90%;
+    margin: auto;
+
+}
+.bgimg H1{
+    font-size: 50px;
+    color: cadetblue;
+}
+.bgimg p{
+    margin: auto;
+    width: fit-content;
+    padding: 15px;
+    line-height: 24px;
+    font-family: 'Playfair Display', serif;
+}
+.bg-img{
+    width: 300px;
+    margin: 0 400px;
+    padding: 10px;
+    background-image: url(./image/pexels-designecologist-1779487.jpg);
+    background-position: top-left;
+    list-style-type: none;
+    border-radius: 15px;
+    display: inline-block;
+}
+.bg-img h1{
+    color: burlywood;
+}
+.bg-img h3{
+    color: white;
+    display: block;
+    padding: 0 15px ;
+}
+.bg-img p{
+    color: white;
+    font-size: 14px;
+    font-family: serif;
+    line-height: 18px;
+    display: block;
+}
+.gradient{
+    width: 300px;
+    height: 400px;
+    background-image: linear-gradient(70deg, rgb(35, 67, 74), rgb(34, 123, 98));
+    margin: auto;
+    border-radius: 15px;
+    display: block;
+}
+.gradient .hh .grdnt i{
+    margin: 10px;
+    padding: 5px;
+}
+.gradient P{
+    color: bisque;
+    padding: 50px 0;
+    font-size: 50px;
+    line-height: 70px;
+    font-family: 'Carattere', cursive;
+}
+.information{
+    font-size: 20px;
+    line-height: 30px;
+    font-family: cursive;
+    display: inline-block;
+}
